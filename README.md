@@ -11,7 +11,7 @@
 - [Notion](https://notion.so)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Robo 3T](https://robomongo.org/download)
-- [PyCharm](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+
 
 
 ## 🥇 프로젝트 포커스
